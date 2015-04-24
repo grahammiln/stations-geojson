@@ -1,4 +1,4 @@
-# stations-geojson - GeoJSON data of European train stations
+# stations-geojson
 
 Use **stations2geojson.pl** to create a [GeoJSON](http://geojson.org) edition of the European train station database.
 
